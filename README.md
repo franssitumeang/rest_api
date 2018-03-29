@@ -59,7 +59,7 @@ This REST API develop with python(django_rest) and has been deployed to [heroku]
 }
 ```
 * **Delete News - <i>DELETE</i>**<br>
-[https://rest-api-ku.herokuapp.com/api/news/delete/{id}](https://rest-api-ku.herokuapp.com/api/news/delete/{id})
+https://rest-api-ku.herokuapp.com/api/news/delete/{id}
 * **Filter by News Status - <i>GET</i>**<br>
 [https://rest-api-ku.herokuapp.com/api/news/filter/status/{status}](https://rest-api-ku.herokuapp.com/api/news/filter/status/{status})
 * **Filter News by its Topics - <i>GET</i>**<br>
