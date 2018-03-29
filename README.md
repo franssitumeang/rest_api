@@ -43,7 +43,7 @@ This REST API develop with python(django_rest) and has been deployed to [heroku]
 ```json
 {
   "title": "news_title",
-  "status": "news_status",
+  "status": "draft",
   "topic": [3,4] 
 }
 ```
@@ -54,7 +54,7 @@ This REST API develop with python(django_rest) and has been deployed to [heroku]
 ```json
 {
   "title": "news_title",
-  "status": "news_status",
+  "status": "publish",
   "topic": [3,4] 
 }
 ```
