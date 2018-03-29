@@ -11,6 +11,8 @@ This REST API develop with python(django_rest) and has been deployed to [heroku]
 * Create Topic --> method **POST**<br>
 [https://rest-api-ku.herokuapp.com/api/topic/create](https://rest-api-ku.herokuapp.com/api/topic/create)<br>
 **body params**
-  >{<br>
-  >  "name": "topic_name"<br>
-  >}
+```json
+{
+  "name": "topic_name" 
+}
+```
