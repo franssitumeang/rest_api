@@ -18,9 +18,9 @@ This REST API develop with python(django_rest) and has been deployed to [heroku]
   "name": "topic_name" 
 }
 ```
-* Update Topic --> method **PUT**
+* Update Topic --> method **PUT**<br>
+[https://rest-api-ku.herokuapp.com/api/topic/update/{id}](https://rest-api-ku.herokuapp.com/api/topic/update/{id})
 
-[https://rest-api-ku.herokuapp.com/api/topic/update/{id}](https://rest-api-ku.herokuapp.com/api/topic/update/{id})<br>
 **body param**
 ```json
 {
