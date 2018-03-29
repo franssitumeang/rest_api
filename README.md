@@ -5,11 +5,11 @@ This REST API develop with python(django_rest) and has been deployed to [heroku]
 ## API Documentation
 ### Topic Management
 
-* **list topic - GET**<br>
+* **List Topic - <i>GET</i>**<br>
 [https://rest-api-ku.herokuapp.com/api/topic/list](https://rest-api-ku.herokuapp.com/api/topic/list)
-* View Detail Topic --> method **GET**<br>
+* **View Detail Topic - GET**<br>
 [https://rest-api-ku.herokuapp.com/api/topic/detail/{id}](https://rest-api-ku.herokuapp.com/api/topic/detail/3)
-* Create Topic --> method **POST**<br>
+* **Create Topic - POST**<br>
 [https://rest-api-ku.herokuapp.com/api/topic/create](https://rest-api-ku.herokuapp.com/api/topic/create)
 
 **body param**
