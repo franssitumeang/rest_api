@@ -63,4 +63,4 @@ This REST API develop with python(django_rest) and has been deployed to [heroku]
 * **Filter by News Status - <i>GET</i>**<br>
 [https://rest-api-ku.herokuapp.com/api/news/filter/status/{status}](https://rest-api-ku.herokuapp.com/api/news/filter/status/{status})
 * **Filter News by its Topics - <i>GET</i>**<br>
-[https://rest-api-ku.herokuapp.com/api/news/filter/topik/{id_topik}](https://rest-api-ku.herokuapp.com/api/news/filter/topik/{id_topik})
+[https://rest-api-ku.herokuapp.com/api/news/filter/topik/{id_topik}](https://rest-api-ku.herokuapp.com/api/news/filter/topic/{id_topik})
